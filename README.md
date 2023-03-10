@@ -2,7 +2,7 @@
 
 In 2016, a vulnerability in the smart contract of the Decentralized Autonomous Organization (DAO) allowed an attacker to siphon off 3.6 million ether, worth around $50 million at the time. The attack exploited a flaw in the code that allowed the attacker to repeatedly withdraw funds without the contract registering the debits, resulting in the draining of the entire DAO fund. The attack prompted a hard fork of the Ethereum blockchain to return the stolen funds to the original investors.
 
-### ----------------------------------------------- ***Education purpose only*** -------------------------------------------------
+### --------------------------------------- ***Education purpose only*** ---------------------------------------
 
 # Thank you!
 
